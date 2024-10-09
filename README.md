@@ -8,7 +8,9 @@ The phantom has been designed for compatibility with multiple imaging modalities
 
 <p align="center">
   <img src="Simulation Training.png" alt="3D Printed TSP Phantom" width="250">
+  <img src="TSP Phantom Assembly.gif" alt="TSP Phantom Assembly" width="250">
 </p>
+
 
 ### Key Features
 - Anatomically Accurate Model: The phantom is based on patient-specific magnetic resonance imaging (MRI) data, ensuring anatomical accuracy for simulation training.
