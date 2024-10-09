@@ -7,7 +7,7 @@ This repository provides open-source access to the STL files for a novel, anatom
 The phantom has been designed for compatibility with multiple imaging modalities, including X-ray fluoroscopy and ultrasound, and incorporates a replaceable fossa ovalis component to facilitate repeated simulations.
 
 <p align="center">
-  <img src="Simulation Training.png" alt="3D Printed TSP Phantom" width="500">
+  <img src="Simulation Training.png" alt="3D Printed TSP Phantom" width="250">
 </p>
 
 ### Key Features
