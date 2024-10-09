@@ -7,10 +7,10 @@ This repository provides open-source access to the STL files for a novel, anatom
 The phantom has been designed for compatibility with multiple imaging modalities, including X-ray fluoroscopy and ultrasound, and incorporates a replaceable fossa ovalis component to facilitate repeated simulations.
 
 ### Key Features
-Anatomically Accurate Model: The phantom is based on patient-specific magnetic resonance imaging (MRI) data, ensuring anatomical accuracy for simulation training.
-Replaceable Fossa Ovalis: The fossa ovalis (FO) insert is designed to be replaceable, allowing for multiple punctures without needing to replace the entire phantom.
-Imaging Compatibility: The phantom is compatible with X-ray fluoroscopy and ultrasound imaging, providing a realistic training environment for clinicians.
-Modular Design: The design of the phantom allows for customization and replacement of individual components, improving cost-effectiveness for training programs.
+- Anatomically Accurate Model: The phantom is based on patient-specific magnetic resonance imaging (MRI) data, ensuring anatomical accuracy for simulation training.
+- Replaceable Fossa Ovalis: The fossa ovalis (FO) insert (of variable thickness) is designed to be replaceable, allowing for multiple punctures without needing to replace the entire phantom.
+- Imaging Compatibility: The phantom is compatible with X-ray fluoroscopy and ultrasound imaging, providing a realistic training environment for clinicians.
+- Modular Design: The design of the phantom allows for customization and replacement of individual components, improving cost-effectiveness for training programs.
 
 ### Files Included
 This repository contains the following STL files:
