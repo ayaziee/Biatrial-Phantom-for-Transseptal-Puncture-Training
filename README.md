@@ -1,10 +1,14 @@
-# Biatrial-Phantom-for-Transseptal-Puncture-Training
+# Transseptal Puncture Simulation Training
 An Anthropomorphic Phantom for Atrial Transseptal Puncture Simulation Training - 3D Printing in Medicine
 
 ## Overview
 This repository provides open-source access to the STL files for a novel, anatomically accurate Anthropomorphic Phantom for Transseptal Puncture (TSP) Simulation Training, developed to simulate patient-specific left atrial anatomy. The phantom allows for realistic simulation of the transseptal puncture procedure, commonly performed during left-sided cardiac interventions such as atrial fibrillation (AF) ablation and left atrial appendage closure. These files are intended for researchers, educators, and clinicians interested in medical simulation, cardiology, and 3D printing.
 
 The phantom has been designed for compatibility with multiple imaging modalities, including X-ray fluoroscopy and ultrasound, and incorporates a replaceable fossa ovalis component to facilitate repeated simulations.
+
+<p align="center">
+  <img src="Simulation Training.png" alt="3D Printed TSP Phantom" width="500">
+</p>
 
 ### Key Features
 - Anatomically Accurate Model: The phantom is based on patient-specific magnetic resonance imaging (MRI) data, ensuring anatomical accuracy for simulation training.
@@ -15,25 +19,25 @@ The phantom has been designed for compatibility with multiple imaging modalities
 ### Files Included
 This repository contains the following STL files:
 
-- Left Atrium: STL file representing the left atrial structure.
-- Right Atrium: STL file representing the right atrial structure.
+- Left & Right Atria: STL file featuring the combined left and right atria structure.
 - Fossa Ovalis Insert: STL file for the replaceable Fossa Ovalis component.
-- Phantom Assembly Parts: STL files for various components that assemble the complete TSP phantom.
 
 ## Manufacturing Guidelines
 The files provided are intended for use with common 3D printing techniques. The phantom has been successfully fabricated using the following techniques:
 
-Material Extrusion (commonly referred to as FDM) for robust external components, such as the support structures.
-Vat Photopolymerization for detailed anatomical features of the atria and fossa ovalis, ensuring high resolution and surface finish.
-Recommended Materials:
+- Material Extrusion (commonly referred to as FDM) for robust external components, such as the support structures.
+- Vat Photopolymerization for detailed anatomical features of the atria and fossa ovalis, ensuring high resolution and surface finish.
 
-- Tough PLA for external components using material extrusion (FDM).
-- Elastic 50A Resin for internal cardiac structures using vat photopolymerization.
+### Recommended Materials:
+
+- Elastic resin for internal cardiac structures using vat photopolymerization.
+- Tough polylactic acid (PLA) for the Fossa Ovalis insert structure.
+- Silicone rubber for the Fossa Ovalis.
 
 ## Usage and Application
 The anthropomorphic phantom is designed to be used in the following contexts:
 
-- Medical Simulation Training: For training cardiologists and interventionalists in performing TSP procedures.
+- Medical Simulation Training: For training cardiologists in performing TSP procedures.
 - Pre-Procedure Planning: Used in pre-procedural rehearsals for complex left-sided cardiac interventions.
 - Research and Development: For developing and validating medical devices and tools associated with TSP procedures.
 
