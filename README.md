@@ -2,9 +2,9 @@
 An Anthropomorphic Phantom for Atrial Transseptal Puncture Simulation Training - 3D Printing in Medicine
 
 ## Overview
-This repository provides open-source access to the STL files for a novel, anatomically accurate Anthropomorphic Phantom for Transseptal Puncture (TSP) Simulation Training, developed to simulate patient-specific left atrial anatomy. The phantom allows for realistic simulation of the transseptal puncture procedure, commonly performed during left-sided cardiac interventions such as atrial fibrillation (AF) ablation and left atrial appendage closure. These files are intended for researchers, educators, and clinicians interested in medical simulation, cardiology, and 3D printing.
+This repository provides open-source access to the STL files for a novel, anatomically accurate _Anthropomorphic Phantom for Transseptal Puncture (TSP) Simulation Training_, developed to simulate patient-specific left atrial anatomy. The phantom allows for realistic simulation of the transseptal puncture procedure, commonly performed during left-sided cardiac interventions such as atrial fibrillation (AF) ablation and left atrial appendage closure. These files are intended for researchers, educators, and clinicians interested in medical simulation/training, cardiology, 3D printing, and preliminary medical device testing.
 
-The phantom has been designed for compatibility with multiple imaging modalities, including X-ray fluoroscopy and ultrasound, and incorporates a replaceable fossa ovalis component to facilitate repeated simulations.
+The phantom has been designed to be with multiple imaging modalities, including X-ray fluoroscopy and ultrasound, and incorporates a replaceable fossa ovalis component to facilitate repeated simulations.
 
 <p align="center">
   <img src="Simulation Training.png" alt="3D Printed TSP Phantom" width="200">
@@ -14,9 +14,9 @@ The phantom has been designed for compatibility with multiple imaging modalities
 
 ### Key Features
 - Anatomically Accurate Model: The phantom is based on patient-specific magnetic resonance imaging (MRI) data, ensuring anatomical accuracy for simulation training.
-- Replaceable Fossa Ovalis: The fossa ovalis (FO) insert (of variable thickness) is designed to be replaceable, allowing for multiple punctures without needing to replace the entire phantom.
-- Imaging Compatibility: The phantom is compatible with X-ray fluoroscopy and ultrasound imaging, providing a realistic training environment for clinicians.
-- Modular Design: The design of the phantom allows for customization and replacement of individual components, improving cost-effectiveness for training programs.
+- Replaceable Fossa Ovalis: The fossa ovalis (FO) insert (of variable thickness) is designed to be replaceable, allowing for multiple punctures without the need to replace the entire phantom.
+- Imaging Capability: The phantom is visible under X-ray fluoroscopy and ultrasound imaging, providing a realistic training environment for trainees and clinicians.
+- Modular Design: The design of the phantom allows for customization and replacement of individual components, improving cost-effectiveness and facilitating patient-specificity for training programs.
 
 ### Files Included
 This repository contains the following STL files:
@@ -27,12 +27,12 @@ This repository contains the following STL files:
 ## Manufacturing Guidelines
 The files provided are intended for use with common 3D printing techniques. The phantom has been successfully fabricated using the following techniques:
 
-- Material Extrusion (commonly referred to as FDM) for robust external components, such as the support structures.
-- Vat Photopolymerization for detailed anatomical features of the atria and fossa ovalis, ensuring high resolution and surface finish.
+- Material Extrusion (commonly referred to as fused deposition modeling (FDM)) for the fossa ovalis insert, as well as supporting structures such as the interface between the phantom and the outer box.
+- Vat Photopolymerization for detailed anatomical features of the atria, ensuring high resolution and surface finish.
 
 ### Recommended Materials:
 
-- Elastic resin for internal cardiac structures using vat photopolymerization.
+- Elastic resin (Formlabs for cardiac wall using vat photopolymerization.
 - Tough polylactic acid (PLA) for the Fossa Ovalis insert structure.
 - Silicone rubber for the Fossa Ovalis.
 
