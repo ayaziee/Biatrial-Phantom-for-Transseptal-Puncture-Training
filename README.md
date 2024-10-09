@@ -8,7 +8,7 @@ The phantom has been designed for compatibility with multiple imaging modalities
 
 <p align="center">
   <img src="Simulation Training.png" alt="3D Printed TSP Phantom" width="250">
-  <img src="TSP Phantom Assembly.gif" alt="TSP Phantom Assembly" width="250">
+  <img src="TSP Phantom Assembly.gif" alt="TSP Phantom Assembly" width="800">
 </p>
 
 
