@@ -32,7 +32,7 @@ The files provided are intended for use with common 3D printing techniques. The 
 
 ### Recommended Materials:
 
-- Elastic resin (Formlabs for cardiac wall using vat photopolymerization.
+- Elastic resin (Formlabs) for cardiac wall using vat photopolymerization.
 - Tough polylactic acid (PLA) for the Fossa Ovalis insert structure.
 - Silicone rubber for the Fossa Ovalis.
 
