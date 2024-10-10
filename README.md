@@ -1,5 +1,5 @@
 # Transseptal Puncture Simulation Training
-An Anthropomorphic Phantom for Atrial Transseptal Puncture Simulation Training - 3D Printing in Medicine
+An Anthropomorphic Phantom for Atrial Transseptal Puncture Simulation Training - 3D Printing in Medicine (2024)
 
 ## Overview
 This repository provides open-source access to the STL files for a novel, anatomically accurate _Anthropomorphic Phantom for Transseptal Puncture (TSP) Simulation Training_, developed to simulate patient-specific left atrial anatomy. The phantom allows for realistic simulation of the transseptal puncture procedure, commonly performed during left-sided cardiac interventions such as atrial fibrillation (AF) ablation and left atrial appendage closure. These files are intended for researchers, educators, and clinicians interested in medical simulation/training, cardiology, 3D printing, and preliminary medical device testing.
@@ -22,19 +22,20 @@ The phantom has been designed to be with multiple imaging modalities, including 
 This repository contains the following STL files:
 
 - Left & Right Atria: STL file featuring the combined left and right atria structure.
-- Fossa Ovalis Insert: STL file for the replaceable Fossa Ovalis component.
+- FO Insert: STL file for the replaceable FO component.
+- FO Mold: STL file for the material extruded mold for silicone molding of the FO.
 
 ## Manufacturing Guidelines
 The files provided are intended for use with common 3D printing techniques. The phantom has been successfully fabricated using the following techniques:
 
-- Material Extrusion (commonly referred to as fused deposition modeling (FDM)) for the fossa ovalis insert, as well as supporting structures such as the interface between the phantom and the outer box.
+- Material Extrusion (commonly referred to as fused deposition modeling (FDM)) for the FO insert, as well as supporting structures such as the interface between the phantom and the outer box.
 - Vat Photopolymerization for detailed anatomical features of the atria, ensuring high resolution and surface finish.
 
 ### Recommended Materials:
 
 - Elastic resin (Formlabs) for cardiac wall using vat photopolymerization.
-- Tough polylactic acid (PLA) for the Fossa Ovalis insert structure.
-- Silicone rubber for the Fossa Ovalis.
+- Tough polylactic acid (PLA) or Formlabs Resin for the FO insert structure.
+- Silicone rubber for the FO.
 
 ## Usage and Application
 The anthropomorphic phantom is designed to be used in the following contexts:
