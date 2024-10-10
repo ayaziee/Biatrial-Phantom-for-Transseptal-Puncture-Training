@@ -11,38 +11,12 @@ The phantom has been designed to be with multiple imaging modalities, including 
   <img src="TSP Phantom Assembly.gif" alt="TSP Phantom Assembly" width="530">
 </p>
 
-
-### Key Features
-- Anatomically Accurate Model: The phantom is based on patient-specific magnetic resonance imaging (MRI) data, ensuring anatomical accuracy for simulation training.
-- Replaceable Fossa Ovalis: The fossa ovalis (FO) insert (of variable thickness) is designed to be replaceable, allowing for multiple punctures without the need to replace the entire phantom.
-- Imaging Capability: The phantom is visible under X-ray fluoroscopy and ultrasound imaging, providing a realistic training environment for trainees and clinicians.
-- Modular Design: The design of the phantom allows for customization and replacement of individual components, improving cost-effectiveness and facilitating patient-specificity for training programs.
-
 ### Files Included
 This repository contains the following STL files:
 
 - Left & Right Atria: STL file featuring the combined left and right atria structure.
 - FO Insert: STL file for the replaceable FO component.
 - FO Mold: STL file for the material extruded mold for silicone molding of the FO.
-
-## Manufacturing Guidelines
-The files provided are intended for use with common 3D printing techniques. The phantom has been successfully fabricated using the following techniques:
-
-- Material Extrusion (commonly referred to as fused deposition modeling (FDM)) for the FO insert, as well as supporting structures such as the interface between the phantom and the outer box.
-- Vat Photopolymerization for detailed anatomical features of the atria, ensuring high resolution and surface finish.
-
-### Recommended Materials:
-
-- Elastic resin (Formlabs) for cardiac wall using vat photopolymerization.
-- Tough polylactic acid (PLA) or Formlabs Resin for the FO insert structure.
-- Silicone rubber for the FO.
-
-## Usage and Application
-The anthropomorphic phantom is designed to be used in the following contexts:
-
-- Medical Simulation Training: For training cardiologists in performing TSP procedures.
-- Pre-Procedure Planning: Used in pre-procedural rehearsals for complex left-sided cardiac interventions.
-- Research and Development: For developing and validating medical devices and tools associated with TSP procedures.
 
 ## How to Cite
 If you use these STL files in your research or academic publications, please cite the following paper:
