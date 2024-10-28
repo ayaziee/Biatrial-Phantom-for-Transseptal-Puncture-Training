@@ -24,7 +24,7 @@ This project is licensed under the Creative Commons Attribution 4.0 Internationa
 ## Contributors
 This repository is maintained by:
 
-Aya Mutaz Zeidan (King’s College London, UK) - Principal Investigator.
+Aya Mutaz Zeidan (King’s College London, UK) - Lead Researcher.
 
 Contributing Authors: Zhouyang Xu, Lisa Leung, Calum Byrne, Sachin Sabu, Yijia Zhou, Christopher Aldo Rinaldi, John Whitaker, Steven E. Williams, Jonathan Behar, Aruna Arujuna, R. James Housden, Kawal Rhode.
 
