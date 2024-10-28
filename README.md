@@ -19,7 +19,7 @@ If you use these STL files in your research or academic publications, please cit
 Zeidan, A. M., et al. (2024). An Anthropomorphic Phantom for Atrial Transseptal Puncture Simulation Training. _3D Printing in Medicine_.
 
 ## License
-This project is licensed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License. You are free to use, share, and adapt the material provided you give appropriate credit.
+This project is licensed under the Creative Commons Attribution 1.0 International (CC BY 1.0) License. You are free to use, share, and adapt the material provided you give appropriate credit.
 
 ## Contributors
 This repository is maintained by:
