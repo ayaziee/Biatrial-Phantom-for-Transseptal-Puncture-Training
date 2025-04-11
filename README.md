@@ -34,4 +34,4 @@ The development of this phantom was supported by the Wellcome Centre for Medical
 ## Contact Information
 For questions or further information, please contact:
 
-Aya Mutaz Zeidan: aya.zeidan@kcl.ac.uk
+Aya Mutaz Zeidan: aya.zeidan@kcl.ac.uk or aya.m.zeidan99@gmail.com
