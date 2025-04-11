@@ -29,9 +29,9 @@ Aya Mutaz Zeidan (King’s College London, UK) - Principal Investigator.
 Contributing Authors: Zhouyang Xu, Lisa Leung, Calum Byrne, Sachin Sabu, Yijia Zhou, Christopher Aldo Rinaldi, John Whitaker, Steven E. Williams, Jonathan Behar, Aruna Arujuna, R. James Housden, Kawal Rhode.
 
 ## Acknowledgments
-The development of this phantom was supported by the Wellcome Centre for Medical Engineering and the British Heart Foundation Centre of Excellence. Special thanks to the Cardiology Department at Guy’s & St. Thomas’ NHS Foundation Trust for their support and guidance.
+The development of this phantom was supported by the Wellcome Centre for Medical Engineering and the British Heart Foundation (BHF) Centre of Excellence. Special thanks to the Cardiology Department at Guy’s & St. Thomas’ NHS Foundation Trust for their support and guidance.
 
 ## Contact Information
 For questions or further information, please contact:
 
-Aya Mutaz Zeidan: aya.zeidan@kcl.ac.uk
+Aya Mutaz Zeidan: aya.zeidan@kcl.ac.uk or aya.m.zeidan99@gmail.com
